@@ -7,16 +7,14 @@ CRTM_INI_URL = "/tu-transporte-publico.aspx"
 TRANSPORT_TYPES = ["metro", "metro-ligero", "cercanias-renfe"]
 
 
-def get_lines_page_link(base_url, page_url, transport):
+def get_lines_page_link(transport):
     """
     Function that searches the line link for a given transport.
-    :param base_url: string. "http://www.crtm.es"
-    :param page_url: string. "/tu-transporte-publico.aspx"
     :param transport: string. One of {metro, metro-ligero, cercanias-renfe}
     :return: string containing the line link.
     """
-    print("Accessing: " + base_url + page_url)
-    html = requests.get(base_url + page_url)
+    print("Accessing: " + CRTM_BASE_URL + CRTM_INI_URL)
+    html = requests.get(CRTM_BASE_URL + CRTM_INI_URL)
     bs_obj = BeautifulSoup(html.text, "html.parser")
     return bs_obj.find("a",
                        href=re.compile("^/tu-transporte-publico/{}/lineas.aspx$"
@@ -74,9 +72,7 @@ def get_all_stations():
     """
     transport_dict = {}
     for t_type in TRANSPORT_TYPES:
-        lines_page_link = get_lines_page_link(CRTM_BASE_URL,
-                                              CRTM_INI_URL,
-                                              t_type)
+        lines_page_link = get_lines_page_link(t_type)
         lines_links = get_lines_links(lines_page_link, t_type)
         lines_dict = get_ordered_stations(lines_links)
         transport_dict[t_type] = lines_dict

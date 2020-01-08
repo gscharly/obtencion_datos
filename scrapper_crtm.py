@@ -48,8 +48,9 @@ def get_ordered_stations(lines_links):
     """
     lines_dict = {}
     for line in lines_links:
-        print("Accessing: " + CRTM_BASE_URL + line.attrs['href'])
-        html = requests.get(CRTM_BASE_URL + line.attrs['href'])
+        line_url = line.attrs['href']
+        print("Accessing: " + CRTM_BASE_URL + line_url)
+        html = requests.get(CRTM_BASE_URL + line_url)
         bs_obj = BeautifulSoup(html.text, "html.parser")
         # Line number
         line_number = bs_obj.find("h4", {"class": "titu4"})\
@@ -57,7 +58,7 @@ def get_ordered_stations(lines_links):
                             .get_text()
         # Stations
         table = bs_obj.find("table", {"class": "tablaParadas"})
-        line_stations = [row.find("a").get_text().strip()
+        line_stations = [(row.find("a").get_text().strip())
                          for row in table.tbody.find_all("tr")]
         lines_dict[line_number] = line_stations
     return lines_dict
@@ -78,10 +79,6 @@ def get_all_stations():
         transport_dict[t_type] = lines_dict
     return transport_dict
 
-
-if __name__ == '__main__':
-    transport_lines_stations = get_all_stations()
-    print(transport_lines_stations)
 
 
 

@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+		 xmlns:transporte="http://www.crtm.es/transportes#"
+		 xmlns:linea="http://www.crtme.es/lineas#"
+		 xmlns:sch="https://schema.org/">
+
+	<rdf:Description rdf:about="http://www.crtm.es/transportes#Metro">
+		<transporte:hasLinea rdf:nodeID="node1"/>
+
+			
+	</rdf:Description>
+
+	<rdf:Description rdf:nodeID="node1">
+		<sch:name>Linea 1</sch:name>
+
+		<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+			<rdf:_1>Pinar de Chamartin</rdf:_1>
+			<rdf:_2>Bambu</rdf:_2>
+	</rdf:Description>
+
+
+</rdf:RDF>
+
+
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+		 xmlns:transporte="http://www.crtm.es/transportes#"
+		 xmlns:linea="http://www.crtme.es/lineas#"
+		 xmlns:sch="https://schema.org/">
+
+	<rdf:Description rdf:about="http://www.crtm.es/transportes#Metro">
+		<sch:name>METRO</sch:name>
+		<transporte:hasLinea rdf:resource="http://www.crtme.es/lineas#linea1"/>
+		<transporte:hasLinea rdf:resource="http://www.crtme.es/lineas#linea2"/>
+		<transporte:hasLinea rdf:resource="http://www.crtme.es/lineas#linea3"/>
+		<transporte:hasLinea rdf:resource="http://www.crtme.es/lineas#linea4"/>
+
+
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://www.crtme.es/lineas#linea1">
+		<linea:hasEstacion rdf:nodeID="linea1"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:nodeID="linea1">
+		<sch:name>Linea 1</sch:name>
+
+		<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+			<rdf:_1>Pinar de Chamartin</rdf:_1>
+			<rdf:_2>Bambu</rdf:_2>
+	</rdf:Description>
+
+
+</rdf:RDF>
+
+
+
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:mao="http://com.vortic3.MANTO#"
+xmlns:sch="https://schema.org/">
+
+<rdf:Description rdf:about="http://com.vortic3.MANTO#est_4_11">
+<rdf:type rdf:resource="http://com.vortic3.MANTO#stopPlace"/>
+<sch:name>GRAN VIA</sch:name>
+<mao:connectionLink rdf:nodeID="N2a46376ccca342efa1befd7250cf37d5"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="N2a46376ccca342efa1befd7250cf37d5">
+<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+<rdf:_1>metro05</rdf:_1>
+<rdf:_2>metro01</rdf:_2>
+</rdf:Description>
+</rdf:RDF>

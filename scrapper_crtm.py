@@ -1,17 +1,18 @@
 import requests
 from bs4 import BeautifulSoup
 import re
+from typing import Dict
 
 CRTM_BASE_URL = "http://www.crtm.es"
 CRTM_INI_URL = "/tu-transporte-publico.aspx"
 TRANSPORT_TYPES = ["metro", "metro-ligero", "cercanias-renfe"]
 
 
-def get_lines_page_link(transport):
+def get_lines_page_link(transport: str):
     """
     Function that searches the line link for a given transport.
-    :param transport: string. One of {metro, metro-ligero, cercanias-renfe}
-    :return: string containing the line link.
+    :param transport: One of {metro, metro-ligero, cercanias-renfe}
+    :return: BS tag containing the line link.
     """
     print("Accessing: " + CRTM_BASE_URL + CRTM_INI_URL)
     html = requests.get(CRTM_BASE_URL + CRTM_INI_URL)
@@ -21,13 +22,13 @@ def get_lines_page_link(transport):
                                        .format(transport)))
 
 
-def get_lines_links(lines_page_link, transport):
+def get_lines_links(lines_page_link, transport: str):
     """
     Function that searches each line's url for a given transport.
-    :param lines_page_link: string containing the line link of a
+    :param lines_page_link: BS tag containing the line link of a
     transport.
     :param transport: string. One of {metro, metro-ligero, cercanias-renfe}
-    :return: string containing each line's url.
+    :return: BS set of tags containing each line's url.
     """
     print("Accessing: " + CRTM_BASE_URL + lines_page_link.attrs["href"])
     html = requests.get(CRTM_BASE_URL + lines_page_link.attrs["href"])
@@ -43,7 +44,7 @@ def get_ordered_stations(lines_links):
     """
     Function that searches all of the stations in each of the passed urls for a
     transport.
-    :param lines_links: list containing a url for each line of a transport.
+    :param lines_links: set containing a url for each line of a transport.
     :return: dict containing for each line a list of ordered stations.
     """
     lines_dict = {}
@@ -64,7 +65,7 @@ def get_ordered_stations(lines_links):
     return lines_dict
 
 
-def get_all_stations():
+def get_all_stations() -> Dict:
     """
     Function that returns a dictionary where the keys are each of the transports
     and the values are dictionaries containing a list of ordered stations for

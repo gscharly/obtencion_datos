@@ -55,7 +55,7 @@ def from_dict_to_list(stations_dict: Dict) -> List[Tuple]:
     return stations_list
 
 
-def clean_df(pd_df: pd.DataFrame, web: bool = True):
+def clean_df(pd_df: pd.DataFrame, web: bool = True) -> pd.DataFrame:
     """
     Function that cleans a data frame.
     :param pd_df:
@@ -137,7 +137,7 @@ def join_web_stops() -> pd.DataFrame:
     return stops_info
 
 
-def save_stops_csv(pd_df):
+def save_stops_csv(pd_df: pd.DataFrame):
     """
     Saves the final data frame to csv.
     :param pd_df: data frame with information of both sources.

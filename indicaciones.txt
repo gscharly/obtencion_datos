@@ -1,0 +1,13 @@
+Para generar el archivo stops_web.csv con la información del scraper y stops unificada, se tiene que ejecutar el script join_stops_info.py:
+
+python join_stops_info
+
+
+Código ejecutado y desarrollado en:
+- Ubuntu 16.04
+- Python 3.7
+- Versiones de librerías:
+	- pandas 0.25.1
+	- unidecode 1.1.1
+	- bs4 0.0.1
+	- requests 2.22.0

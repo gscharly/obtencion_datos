@@ -40,7 +40,7 @@ def get_lines_links(lines_page_link, transport: str):
                                           "(.aspx)$"))
 
 
-def get_ordered_stations(lines_links):
+def get_ordered_stations(lines_links) -> Dict:
     """
     Function that searches all of the stations in each of the passed urls for a
     transport.

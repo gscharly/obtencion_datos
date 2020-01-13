@@ -51,7 +51,7 @@ def from_dict_to_list(stations_dict: Dict) -> List[Tuple]:
         for line, stations in stations_dict[t].items():
             for s in stations:
                 stations_list.append((t, s, line,
-                                      line + '_' + str(stations.index(s))))
+                                      line + '_' + str(stations.index(s) + 1)))
     return stations_list
 
 
@@ -154,5 +154,7 @@ def save_stops_csv(pd_df: pd.DataFrame):
 
 
 if __name__ == '__main__':
+    # Loads info from scraper and stops.txt, and joins it
     pd_stops_info = join_web_stops()
+    # Save as csv
     save_stops_csv(pd_stops_info)

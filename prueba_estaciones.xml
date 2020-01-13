@@ -1,0 +1,1904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://www.transporte_madrid.es#"
+   xmlns:ns2="http://xmlns.com/foaf/0.1/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:nodeID="N3840a802dc3b445ba224a41feafbf99d">
+    <rdf:_11 rdf:resource="http://www.transporte_madrid.es/parada#par_4_64"/>
+    <rdf:_6 rdf:resource="http://www.transporte_madrid.es/parada#par_4_59"/>
+    <rdf:_13 rdf:resource="http://www.transporte_madrid.es/parada#par_4_66"/>
+    <rdf:_1 rdf:resource="http://www.transporte_madrid.es/parada#par_4_52"/>
+    <rdf:_5 rdf:resource="http://www.transporte_madrid.es/parada#par_4_58"/>
+    <rdf:_21 rdf:resource="http://www.transporte_madrid.es/parada#par_4_264"/>
+    <rdf:_10 rdf:resource="http://www.transporte_madrid.es/parada#par_4_63"/>
+    <rdf:_17 rdf:resource="http://www.transporte_madrid.es/parada#par_4_70"/>
+    <rdf:_4 rdf:resource="http://www.transporte_madrid.es/parada#par_4_57"/>
+    <rdf:_12 rdf:resource="http://www.transporte_madrid.es/parada#par_4_65"/>
+    <rdf:_19 rdf:resource="http://www.transporte_madrid.es/parada#par_4_72"/>
+    <rdf:_16 rdf:resource="http://www.transporte_madrid.es/parada#par_4_69"/>
+    <rdf:_14 rdf:resource="http://www.transporte_madrid.es/parada#par_4_67"/>
+    <rdf:_9 rdf:resource="http://www.transporte_madrid.es/parada#par_4_62"/>
+    <rdf:_15 rdf:resource="http://www.transporte_madrid.es/parada#par_4_68"/>
+    <rdf:_22 rdf:resource="http://www.transporte_madrid.es/parada#par_4_265"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_7 rdf:resource="http://www.transporte_madrid.es/parada#par_4_60"/>
+    <rdf:_3 rdf:resource="http://www.transporte_madrid.es/parada#par_4_9"/>
+    <rdf:_23 rdf:resource="http://www.transporte_madrid.es/parada#par_4_263"/>
+    <rdf:_2 rdf:resource="http://www.transporte_madrid.es/parada#par_4_39"/>
+    <rdf:_20 rdf:resource="http://www.transporte_madrid.es/parada#par_4_73"/>
+    <rdf:_18 rdf:resource="http://www.transporte_madrid.es/parada#par_4_71"/>
+    <rdf:_8 rdf:resource="http://www.transporte_madrid.es/parada#par_4_30"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb7eb23031be64d55acd188a909eea586">
+    <rdf:_6 rdf:resource="http://www.transporte_madrid.es/parada#par_5_93"/>
+    <rdf:_8 rdf:resource="http://www.transporte_madrid.es/parada#par_5_122"/>
+    <rdf:_10 rdf:resource="http://www.transporte_madrid.es/parada#par_5_18"/>
+    <rdf:_13 rdf:resource="http://www.transporte_madrid.es/parada#par_5_37"/>
+    <rdf:_11 rdf:resource="http://www.transporte_madrid.es/parada#par_5_31"/>
+    <rdf:_14 rdf:resource="http://www.transporte_madrid.es/parada#par_5_83"/>
+    <rdf:_12 rdf:resource="http://www.transporte_madrid.es/parada#par_5_15"/>
+    <rdf:_3 rdf:resource="http://www.transporte_madrid.es/parada#par_5_34"/>
+    <rdf:_7 rdf:resource="http://www.transporte_madrid.es/parada#par_5_11"/>
+    <rdf:_9 rdf:resource="http://www.transporte_madrid.es/parada#par_5_51"/>
+    <rdf:_2 rdf:resource="http://www.transporte_madrid.es/parada#par_5_36"/>
+    <rdf:_15 rdf:resource="http://www.transporte_madrid.es/parada#par_5_21"/>
+    <rdf:_5 rdf:resource="http://www.transporte_madrid.es/parada#par_5_92"/>
+    <rdf:_1 rdf:resource="http://www.transporte_madrid.es/parada#par_5_53"/>
+    <rdf:_4 rdf:resource="http://www.transporte_madrid.es/parada#par_5_43"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_11">
+    <ns2:name>ATOCHA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7665edc607834572a5a35ce7b4f094fa">
+    <rdf:_2 rdf:resource="http://www.transporte_madrid.es/parada#par_10_2"/>
+    <rdf:_9 rdf:resource="http://www.transporte_madrid.es/parada#par_10_9"/>
+    <rdf:_3 rdf:resource="http://www.transporte_madrid.es/parada#par_10_3"/>
+    <rdf:_6 rdf:resource="http://www.transporte_madrid.es/parada#par_10_6"/>
+    <rdf:_5 rdf:resource="http://www.transporte_madrid.es/parada#par_10_5"/>
+    <rdf:_7 rdf:resource="http://www.transporte_madrid.es/parada#par_10_7"/>
+    <rdf:_4 rdf:resource="http://www.transporte_madrid.es/parada#par_10_4"/>
+    <rdf:_1 rdf:resource="http://www.transporte_madrid.es/parada#par_10_1"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_8 rdf:resource="http://www.transporte_madrid.es/parada#par_10_8"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N999151dc78f74d948f3da997648173a4">
+    <rdf:_23 rdf:resource="http://www.transporte_madrid.es/parada#par_5_96"/>
+    <rdf:_17 rdf:resource="http://www.transporte_madrid.es/parada#par_5_55"/>
+    <rdf:_21 rdf:resource="http://www.transporte_madrid.es/parada#par_5_91"/>
+    <rdf:_5 rdf:resource="http://www.transporte_madrid.es/parada#par_5_35"/>
+    <rdf:_1 rdf:resource="http://www.transporte_madrid.es/parada#par_5_8"/>
+    <rdf:_8 rdf:resource="http://www.transporte_madrid.es/parada#par_5_69"/>
+    <rdf:_12 rdf:resource="http://www.transporte_madrid.es/parada#par_5_51"/>
+    <rdf:_9 rdf:resource="http://www.transporte_madrid.es/parada#par_5_93"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_15 rdf:resource="http://www.transporte_madrid.es/parada#par_5_145"/>
+    <rdf:_3 rdf:resource="http://www.transporte_madrid.es/parada#par_5_86"/>
+    <rdf:_13 rdf:resource="http://www.transporte_madrid.es/parada#par_5_18"/>
+    <rdf:_22 rdf:resource="http://www.transporte_madrid.es/parada#par_5_74"/>
+    <rdf:_25 rdf:resource="http://www.transporte_madrid.es/parada#par_5_94"/>
+    <rdf:_7 rdf:resource="http://www.transporte_madrid.es/parada#par_5_70"/>
+    <rdf:_10 rdf:resource="http://www.transporte_madrid.es/parada#par_5_11"/>
+    <rdf:_4 rdf:resource="http://www.transporte_madrid.es/parada#par_5_56"/>
+    <rdf:_18 rdf:resource="http://www.transporte_madrid.es/parada#par_5_44"/>
+    <rdf:_16 rdf:resource="http://www.transporte_madrid.es/parada#par_5_58"/>
+    <rdf:_24 rdf:resource="http://www.transporte_madrid.es/parada#par_5_29"/>
+    <rdf:_6 rdf:resource="http://www.transporte_madrid.es/parada#par_5_103"/>
+    <rdf:_11 rdf:resource="http://www.transporte_madrid.es/parada#par_5_122"/>
+    <rdf:_20 rdf:resource="http://www.transporte_madrid.es/parada#par_5_33"/>
+    <rdf:_2 rdf:resource="http://www.transporte_madrid.es/parada#par_5_19"/>
+    <rdf:_27 rdf:resource="http://www.transporte_madrid.es/parada#par_5_76"/>
+    <rdf:_26 rdf:resource="http://www.transporte_madrid.es/parada#par_5_67"/>
+    <rdf:_14 rdf:resource="http://www.transporte_madrid.es/parada#par_5_64"/>
+    <rdf:_19 rdf:resource="http://www.transporte_madrid.es/parada#par_5_82"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N077847a9fe5d4fc1b8f5492ea00856c6">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_10 rdf:resource="http://www.transporte_madrid.es/parada#par_4_28"/>
+    <rdf:_5 rdf:resource="http://www.transporte_madrid.es/parada#par_4_76"/>
+    <rdf:_18 rdf:resource="http://www.transporte_madrid.es/parada#par_4_36"/>
+    <rdf:_16 rdf:resource="http://www.transporte_madrid.es/parada#par_4_11"/>
+    <rdf:_22 rdf:resource="http://www.transporte_madrid.es/parada#par_4_93"/>
+    <rdf:_7 rdf:resource="http://www.transporte_madrid.es/parada#par_4_78"/>
+    <rdf:_19 rdf:resource="http://www.transporte_madrid.es/parada#par_4_90"/>
+    <rdf:_25 rdf:resource="http://www.transporte_madrid.es/parada#par_4_96"/>
+    <rdf:_9 rdf:resource="http://www.transporte_madrid.es/parada#par_4_80"/>
+    <rdf:_1 rdf:resource="http://www.transporte_madrid.es/parada#par_4_252"/>
+    <rdf:_28 rdf:resource="http://www.transporte_madrid.es/parada#par_4_99"/>
+    <rdf:_13 rdf:resource="http://www.transporte_madrid.es/parada#par_4_84"/>
+    <rdf:_26 rdf:resource="http://www.transporte_madrid.es/parada#par_4_97"/>
+    <rdf:_8 rdf:resource="http://www.transporte_madrid.es/parada#par_4_79"/>
+    <rdf:_29 rdf:resource="http://www.transporte_madrid.es/parada#par_4_100"/>
+    <rdf:_24 rdf:resource="http://www.transporte_madrid.es/parada#par_4_95"/>
+    <rdf:_2 rdf:resource="http://www.transporte_madrid.es/parada#par_4_253"/>
+    <rdf:_21 rdf:resource="http://www.transporte_madrid.es/parada#par_4_92"/>
+    <rdf:_4 rdf:resource="http://www.transporte_madrid.es/parada#par_4_75"/>
+    <rdf:_32 rdf:resource="http://www.transporte_madrid.es/parada#par_4_103"/>
+    <rdf:_12 rdf:resource="http://www.transporte_madrid.es/parada#par_4_83"/>
+    <rdf:_6 rdf:resource="http://www.transporte_madrid.es/parada#par_4_77"/>
+    <rdf:_15 rdf:resource="http://www.transporte_madrid.es/parada#par_4_86"/>
+    <rdf:_20 rdf:resource="http://www.transporte_madrid.es/parada#par_4_91"/>
+    <rdf:_23 rdf:resource="http://www.transporte_madrid.es/parada#par_4_94"/>
+    <rdf:_17 rdf:resource="http://www.transporte_madrid.es/parada#par_4_49"/>
+    <rdf:_30 rdf:resource="http://www.transporte_madrid.es/parada#par_4_101"/>
+    <rdf:_31 rdf:resource="http://www.transporte_madrid.es/parada#par_4_102"/>
+    <rdf:_14 rdf:resource="http://www.transporte_madrid.es/parada#par_4_57"/>
+    <rdf:_3 rdf:resource="http://www.transporte_madrid.es/parada#par_4_74"/>
+    <rdf:_27 rdf:resource="http://www.transporte_madrid.es/parada#par_4_98"/>
+    <rdf:_11 rdf:resource="http://www.transporte_madrid.es/parada#par_4_63"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1d1eade6d4cd43548b79d1eb9cc6b557">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_4 rdf:resource="http://www.transporte_madrid.es/parada#par_4_71"/>
+    <rdf:_2 rdf:resource="http://www.transporte_madrid.es/parada#par_4_156"/>
+    <rdf:_8 rdf:resource="http://www.transporte_madrid.es/parada#par_4_285"/>
+    <rdf:_7 rdf:resource="http://www.transporte_madrid.es/parada#par_4_160"/>
+    <rdf:_1 rdf:resource="http://www.transporte_madrid.es/parada#par_4_120"/>
+    <rdf:_3 rdf:resource="http://www.transporte_madrid.es/parada#par_4_258"/>
+    <rdf:_5 rdf:resource="http://www.transporte_madrid.es/parada#par_4_158"/>
+    <rdf:_6 rdf:resource="http://www.transporte_madrid.es/parada#par_4_159"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_8">
+    <ns2:name>PALAS DE REY</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_67">
+    <ns2:name>JAIME I SUR</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_64">
+    <ns2:name>ESTRELLA POLAR NORTE</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_291">
+    <ns2:name>JARAMA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/linea#CR_C4b">
+    <ns1:hasStations rdf:nodeID="Nb7eb23031be64d55acd188a909eea586"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_140">
+    <ns2:name>CARTAGENA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_16">
+    <ns2:name>POZUELO OESTE</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N921a5247a1b64863bee65f88338cbfc1">
+    <rdf:_11 rdf:resource="http://www.transporte_madrid.es/parada#par_4_169"/>
+    <rdf:_13 rdf:resource="http://www.transporte_madrid.es/parada#par_4_83"/>
+    <rdf:_20 rdf:resource="http://www.transporte_madrid.es/parada#par_4_178"/>
+    <rdf:_14 rdf:resource="http://www.transporte_madrid.es/parada#par_4_31"/>
+    <rdf:_3 rdf:resource="http://www.transporte_madrid.es/parada#par_4_161"/>
+    <rdf:_12 rdf:resource="http://www.transporte_madrid.es/parada#par_4_64"/>
+    <rdf:_4 rdf:resource="http://www.transporte_madrid.es/parada#par_4_162"/>
+    <rdf:_5 rdf:resource="http://www.transporte_madrid.es/parada#par_4_163"/>
+    <rdf:_29 rdf:resource="http://www.transporte_madrid.es/parada#par_4_186"/>
+    <rdf:_15 rdf:resource="http://www.transporte_madrid.es/parada#par_4_173"/>
+    <rdf:_19 rdf:resource="http://www.transporte_madrid.es/parada#par_4_177"/>
+    <rdf:_9 rdf:resource="http://www.transporte_madrid.es/parada#par_4_156"/>
+    <rdf:_16 rdf:resource="http://www.transporte_madrid.es/parada#par_4_114"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_7 rdf:resource="http://www.transporte_madrid.es/parada#par_4_165"/>
+    <rdf:_6 rdf:resource="http://www.transporte_madrid.es/parada#par_4_1"/>
+    <rdf:_26 rdf:resource="http://www.transporte_madrid.es/parada#par_4_300"/>
+    <rdf:_8 rdf:resource="http://www.transporte_madrid.es/parada#par_4_166"/>
+    <rdf:_1 rdf:resource="http://www.transporte_madrid.es/parada#par_4_345"/>
+    <rdf:_21 rdf:resource="http://www.transporte_madrid.es/parada#par_4_179"/>
+    <rdf:_25 rdf:resource="http://www.transporte_madrid.es/parada#par_4_183"/>
+    <rdf:_18 rdf:resource="http://www.transporte_madrid.es/parada#par_4_176"/>
+    <rdf:_23 rdf:resource="http://www.transporte_madrid.es/parada#par_4_181"/>
+    <rdf:_2 rdf:resource="http://www.transporte_madrid.es/parada#par_4_326"/>
+    <rdf:_10 rdf:resource="http://www.transporte_madrid.es/parada#par_4_168"/>
+    <rdf:_24 rdf:resource="http://www.transporte_madrid.es/parada#par_4_182"/>
+    <rdf:_17 rdf:resource="http://www.transporte_madrid.es/parada#par_4_175"/>
+    <rdf:_27 rdf:resource="http://www.transporte_madrid.es/parada#par_4_184"/>
+    <rdf:_28 rdf:resource="http://www.transporte_madrid.es/parada#par_4_185"/>
+    <rdf:_22 rdf:resource="http://www.transporte_madrid.es/parada#par_4_180"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N253ed7f4db3a466a95da19712074d3e5">
+    <rdf:_18 rdf:resource="http://www.transporte_madrid.es/parada#par_10_62"/>
+    <rdf:_7 rdf:resource="http://www.transporte_madrid.es/parada#par_10_51"/>
+    <rdf:_14 rdf:resource="http://www.transporte_madrid.es/parada#par_10_58"/>
+    <rdf:_17 rdf:resource="http://www.transporte_madrid.es/parada#par_10_61"/>
+    <rdf:_5 rdf:resource="http://www.transporte_madrid.es/parada#par_10_68"/>
+    <rdf:_19 rdf:resource="http://www.transporte_madrid.es/parada#par_10_63"/>
+    <rdf:_10 rdf:resource="http://www.transporte_madrid.es/parada#par_10_54"/>
+    <rdf:_2 rdf:resource="http://www.transporte_madrid.es/parada#par_10_65"/>
+    <rdf:_13 rdf:resource="http://www.transporte_madrid.es/parada#par_10_57"/>
+    <rdf:_3 rdf:resource="http://www.transporte_madrid.es/parada#par_10_66"/>
+    <rdf:_6 rdf:resource="http://www.transporte_madrid.es/parada#par_10_50"/>
+    <rdf:_9 rdf:resource="http://www.transporte_madrid.es/parada#par_10_53"/>
+    <rdf:_15 rdf:resource="http://www.transporte_madrid.es/parada#par_10_59"/>
+    <rdf:_11 rdf:resource="http://www.transporte_madrid.es/parada#par_10_55"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_1 rdf:resource="http://www.transporte_madrid.es/parada#par_10_64"/>
+    <rdf:_12 rdf:resource="http://www.transporte_madrid.es/parada#par_10_56"/>
+    <rdf:_16 rdf:resource="http://www.transporte_madrid.es/parada#par_10_60"/>
+    <rdf:_4 rdf:resource="http://www.transporte_madrid.es/parada#par_10_67"/>
+    <rdf:_8 rdf:resource="http://www.transporte_madrid.es/parada#par_10_52"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7c28967ed8104c168d3fc33e4b465331">
+    <rdf:_13 rdf:resource="http://www.transporte_madrid.es/parada#par_4_10"/>
+    <rdf:_6 rdf:resource="http://www.transporte_madrid.es/parada#par_4_3"/>
+    <rdf:_10 rdf:resource="http://www.transporte_madrid.es/parada#par_4_7"/>
+    <rdf:_20 rdf:resource="http://www.transporte_madrid.es/parada#par_4_17"/>
+    <rdf:_8 rdf:resource="http://www.transporte_madrid.es/parada#par_4_5"/>
+    <rdf:_24 rdf:resource="http://www.transporte_madrid.es/parada#par_4_21"/>
+    <rdf:_26 rdf:resource="http://www.transporte_madrid.es/parada#par_4_23"/>
+    <rdf:_3 rdf:resource="http://www.transporte_madrid.es/parada#par_4_261"/>
+    <rdf:_25 rdf:resource="http://www.transporte_madrid.es/parada#par_4_22"/>
+    <rdf:_31 rdf:resource="http://www.transporte_madrid.es/parada#par_4_293"/>
+    <rdf:_15 rdf:resource="http://www.transporte_madrid.es/parada#par_4_12"/>
+    <rdf:_33 rdf:resource="http://www.transporte_madrid.es/parada#par_4_295"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_29 rdf:resource="http://www.transporte_madrid.es/parada#par_4_26"/>
+    <rdf:_28 rdf:resource="http://www.transporte_madrid.es/parada#par_4_25"/>
+    <rdf:_32 rdf:resource="http://www.transporte_madrid.es/parada#par_4_294"/>
+    <rdf:_9 rdf:resource="http://www.transporte_madrid.es/parada#par_4_6"/>
+    <rdf:_2 rdf:resource="http://www.transporte_madrid.es/parada#par_4_262"/>
+    <rdf:_23 rdf:resource="http://www.transporte_madrid.es/parada#par_4_20"/>
+    <rdf:_27 rdf:resource="http://www.transporte_madrid.es/parada#par_4_24"/>
+    <rdf:_21 rdf:resource="http://www.transporte_madrid.es/parada#par_4_18"/>
+    <rdf:_5 rdf:resource="http://www.transporte_madrid.es/parada#par_4_2"/>
+    <rdf:_1 rdf:resource="http://www.transporte_madrid.es/parada#par_4_263"/>
+    <rdf:_12 rdf:resource="http://www.transporte_madrid.es/parada#par_4_9"/>
+    <rdf:_7 rdf:resource="http://www.transporte_madrid.es/parada#par_4_4"/>
+    <rdf:_30 rdf:resource="http://www.transporte_madrid.es/parada#par_4_27"/>
+    <rdf:_14 rdf:resource="http://www.transporte_madrid.es/parada#par_4_11"/>
+    <rdf:_4 rdf:resource="http://www.transporte_madrid.es/parada#par_4_1"/>
+    <rdf:_22 rdf:resource="http://www.transporte_madrid.es/parada#par_4_19"/>
+    <rdf:_11 rdf:resource="http://www.transporte_madrid.es/parada#par_4_8"/>
+    <rdf:_17 rdf:resource="http://www.transporte_madrid.es/parada#par_4_14"/>
+    <rdf:_19 rdf:resource="http://www.transporte_madrid.es/parada#par_4_16"/>
+    <rdf:_16 rdf:resource="http://www.transporte_madrid.es/parada#par_4_13"/>
+    <rdf:_18 rdf:resource="http://www.transporte_madrid.es/parada#par_4_15"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_59">
+    <ns2:name>AVENIDA SISTEMA SOLAR</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nababaef0eb10435cbb4fc96c0b499353">
+    <rdf:_11 rdf:resource="http://www.transporte_madrid.es/parada#par_5_122"/>
+    <rdf:_2 rdf:resource="http://www.transporte_madrid.es/parada#par_5_19"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_3 rdf:resource="http://www.transporte_madrid.es/parada#par_5_86"/>
+    <rdf:_13 rdf:resource="http://www.transporte_madrid.es/parada#par_5_18"/>
+    <rdf:_7 rdf:resource="http://www.transporte_madrid.es/parada#par_5_70"/>
+    <rdf:_9 rdf:resource="http://www.transporte_madrid.es/parada#par_5_93"/>
+    <rdf:_8 rdf:resource="http://www.transporte_madrid.es/parada#par_5_69"/>
+    <rdf:_6 rdf:resource="http://www.transporte_madrid.es/parada#par_5_103"/>
+    <rdf:_12 rdf:resource="http://www.transporte_madrid.es/parada#par_5_51"/>
+    <rdf:_10 rdf:resource="http://www.transporte_madrid.es/parada#par_5_11"/>
+    <rdf:_4 rdf:resource="http://www.transporte_madrid.es/parada#par_5_56"/>
+    <rdf:_1 rdf:resource="http://www.transporte_madrid.es/parada#par_5_8"/>
+    <rdf:_5 rdf:resource="http://www.transporte_madrid.es/parada#par_5_35"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N20914467fbda46a5852e9fdcfe8419d2">
+    <rdf:_22 rdf:resource="http://www.transporte_madrid.es/parada#par_5_60"/>
+    <rdf:_11 rdf:resource="http://www.transporte_madrid.es/parada#par_5_10"/>
+    <rdf:_16 rdf:resource="http://www.transporte_madrid.es/parada#par_5_64"/>
+    <rdf:_5 rdf:resource="http://www.transporte_madrid.es/parada#par_5_71"/>
+    <rdf:_24 rdf:resource="http://www.transporte_madrid.es/parada#par_5_61"/>
+    <rdf:_19 rdf:resource="http://www.transporte_madrid.es/parada#par_5_68"/>
+    <rdf:_7 rdf:resource="http://www.transporte_madrid.es/parada#par_5_90"/>
+    <rdf:_9 rdf:resource="http://www.transporte_madrid.es/parada#par_5_87"/>
+    <rdf:_13 rdf:resource="http://www.transporte_madrid.es/parada#par_5_65"/>
+    <rdf:_3 rdf:resource="http://www.transporte_madrid.es/parada#par_5_143"/>
+    <rdf:_23 rdf:resource="http://www.transporte_madrid.es/parada#par_5_9"/>
+    <rdf:_20 rdf:resource="http://www.transporte_madrid.es/parada#par_5_42"/>
+    <rdf:_17 rdf:resource="http://www.transporte_madrid.es/parada#par_5_145"/>
+    <rdf:_8 rdf:resource="http://www.transporte_madrid.es/parada#par_5_75"/>
+    <rdf:_21 rdf:resource="http://www.transporte_madrid.es/parada#par_5_13"/>
+    <rdf:_4 rdf:resource="http://www.transporte_madrid.es/parada#par_5_81"/>
+    <rdf:_6 rdf:resource="http://www.transporte_madrid.es/parada#par_5_22"/>
+    <rdf:_18 rdf:resource="http://www.transporte_madrid.es/parada#par_5_58"/>
+    <rdf:_10 rdf:resource="http://www.transporte_madrid.es/parada#par_5_59"/>
+    <rdf:_1 rdf:resource="http://www.transporte_madrid.es/parada#par_5_2"/>
+    <rdf:_2 rdf:resource="http://www.transporte_madrid.es/parada#par_5_106"/>
+    <rdf:_15 rdf:resource="http://www.transporte_madrid.es/parada#par_5_18"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_12 rdf:resource="http://www.transporte_madrid.es/parada#par_5_11"/>
+    <rdf:_14 rdf:resource="http://www.transporte_madrid.es/parada#par_5_51"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_178">
+    <ns2:name>PAVONES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2e6eaa30468d4a31b7d9fc6acb0561cb">
+    <rdf:_16 rdf:resource="http://www.transporte_madrid.es/parada#par_4_51"/>
+    <rdf:_1 rdf:resource="http://www.transporte_madrid.es/parada#par_4_273"/>
+    <rdf:_6 rdf:resource="http://www.transporte_madrid.es/parada#par_4_268"/>
+    <rdf:_15 rdf:resource="http://www.transporte_madrid.es/parada#par_4_50"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_5 rdf:resource="http://www.transporte_madrid.es/parada#par_4_269"/>
+    <rdf:_8 rdf:resource="http://www.transporte_madrid.es/parada#par_4_43"/>
+    <rdf:_11 rdf:resource="http://www.transporte_madrid.es/parada#par_4_46"/>
+    <rdf:_10 rdf:resource="http://www.transporte_madrid.es/parada#par_4_45"/>
+    <rdf:_18 rdf:resource="http://www.transporte_madrid.es/parada#par_4_53"/>
+    <rdf:_14 rdf:resource="http://www.transporte_madrid.es/parada#par_4_49"/>
+    <rdf:_13 rdf:resource="http://www.transporte_madrid.es/parada#par_4_12"/>
+    <rdf:_4 rdf:resource="http://www.transporte_madrid.es/parada#par_4_270"/>
+    <rdf:_12 rdf:resource="http://www.transporte_madrid.es/parada#par_4_47"/>
+    <rdf:_3 rdf:resource="http://www.transporte_madrid.es/parada#par_4_271"/>
+    <rdf:_2 rdf:resource="http://www.transporte_madrid.es/parada#par_4_272"/>
+    <rdf:_9 rdf:resource="http://www.transporte_madrid.es/parada#par_4_44"/>
+    <rdf:_17 rdf:resource="http://www.transporte_madrid.es/parada#par_4_52"/>
+    <rdf:_7 rdf:resource="http://www.transporte_madrid.es/parada#par_4_267"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_62">
+    <ns2:name>VENUS NORTE</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_15">
+    <ns2:name>SOMOSAGUAS CENTRO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_34">
+    <ns2:name>GETAFE CENTRO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4228e1f3413c4da183fa84ec2ef8b95a">
+    <rdf:_6 rdf:resource="http://www.transporte_madrid.es/parada#par_10_15"/>
+    <rdf:_12 rdf:resource="http://www.transporte_madrid.es/parada#par_10_22"/>
+    <rdf:_3 rdf:resource="http://www.transporte_madrid.es/parada#par_10_12"/>
+    <rdf:_1 rdf:resource="http://www.transporte_madrid.es/parada#par_10_10"/>
+    <rdf:_5 rdf:resource="http://www.transporte_madrid.es/parada#par_10_14"/>
+    <rdf:_4 rdf:resource="http://www.transporte_madrid.es/parada#par_10_13"/>
+    <rdf:_8 rdf:resource="http://www.transporte_madrid.es/parada#par_10_18"/>
+    <rdf:_13 rdf:resource="http://www.transporte_madrid.es/parada#par_10_23"/>
+    <rdf:_9 rdf:resource="http://www.transporte_madrid.es/parada#par_10_19"/>
+    <rdf:_10 rdf:resource="http://www.transporte_madrid.es/parada#par_10_20"/>
+    <rdf:_7 rdf:resource="http://www.transporte_madrid.es/parada#par_10_16"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_2 rdf:resource="http://www.transporte_madrid.es/parada#par_10_11"/>
+    <rdf:_11 rdf:resource="http://www.transporte_madrid.es/parada#par_10_21"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_50">
+    <ns2:name>LOS NEGRALES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_21">
+    <ns2:name>AVENIDA DE EUROPA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_7">
+    <ns2:name>MARIA TUDOR</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_60">
+    <ns2:name>VELAZQUEZ</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Naddd437f7e354d22a782abcbc3472122">
+    <rdf:_26 rdf:resource="http://www.transporte_madrid.es/parada#par_4_149"/>
+    <rdf:_8 rdf:resource="http://www.transporte_madrid.es/parada#par_4_286"/>
+    <rdf:_6 rdf:resource="http://www.transporte_madrid.es/parada#par_4_288"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_3 rdf:resource="http://www.transporte_madrid.es/parada#par_4_291"/>
+    <rdf:_22 rdf:resource="http://www.transporte_madrid.es/parada#par_4_145"/>
+    <rdf:_1 rdf:resource="http://www.transporte_madrid.es/parada#par_4_296"/>
+    <rdf:_17 rdf:resource="http://www.transporte_madrid.es/parada#par_4_140"/>
+    <rdf:_21 rdf:resource="http://www.transporte_madrid.es/parada#par_4_41"/>
+    <rdf:_11 rdf:resource="http://www.transporte_madrid.es/parada#par_4_134"/>
+    <rdf:_10 rdf:resource="http://www.transporte_madrid.es/parada#par_4_133"/>
+    <rdf:_28 rdf:resource="http://www.transporte_madrid.es/parada#par_4_151"/>
+    <rdf:_25 rdf:resource="http://www.transporte_madrid.es/parada#par_4_148"/>
+    <rdf:_27 rdf:resource="http://www.transporte_madrid.es/parada#par_4_150"/>
+    <rdf:_29 rdf:resource="http://www.transporte_madrid.es/parada#par_4_152"/>
+    <rdf:_2 rdf:resource="http://www.transporte_madrid.es/parada#par_4_292"/>
+    <rdf:_30 rdf:resource="http://www.transporte_madrid.es/parada#par_4_153"/>
+    <rdf:_15 rdf:resource="http://www.transporte_madrid.es/parada#par_4_138"/>
+    <rdf:_14 rdf:resource="http://www.transporte_madrid.es/parada#par_4_78"/>
+    <rdf:_13 rdf:resource="http://www.transporte_madrid.es/parada#par_4_136"/>
+    <rdf:_9 rdf:resource="http://www.transporte_madrid.es/parada#par_4_132"/>
+    <rdf:_18 rdf:resource="http://www.transporte_madrid.es/parada#par_4_64"/>
+    <rdf:_12 rdf:resource="http://www.transporte_madrid.es/parada#par_4_135"/>
+    <rdf:_23 rdf:resource="http://www.transporte_madrid.es/parada#par_4_122"/>
+    <rdf:_19 rdf:resource="http://www.transporte_madrid.es/parada#par_4_142"/>
+    <rdf:_7 rdf:resource="http://www.transporte_madrid.es/parada#par_4_287"/>
+    <rdf:_24 rdf:resource="http://www.transporte_madrid.es/parada#par_4_147"/>
+    <rdf:_4 rdf:resource="http://www.transporte_madrid.es/parada#par_4_290"/>
+    <rdf:_31 rdf:resource="http://www.transporte_madrid.es/parada#par_4_154"/>
+    <rdf:_5 rdf:resource="http://www.transporte_madrid.es/parada#par_4_289"/>
+    <rdf:_20 rdf:resource="http://www.transporte_madrid.es/parada#par_4_143"/>
+    <rdf:_16 rdf:resource="http://www.transporte_madrid.es/parada#par_4_139"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_22">
+    <ns2:name>BERNA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_187">
+    <ns2:name>FUENCARRAL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N286ff7a5da5145e58c31dcb366049b4b">
+    <rdf:_28 rdf:resource="http://www.transporte_madrid.es/parada#par_5_50"/>
+    <rdf:_6 rdf:resource="http://www.transporte_madrid.es/parada#par_5_106"/>
+    <rdf:_8 rdf:resource="http://www.transporte_madrid.es/parada#par_5_81"/>
+    <rdf:_10 rdf:resource="http://www.transporte_madrid.es/parada#par_5_22"/>
+    <rdf:_23 rdf:resource="http://www.transporte_madrid.es/parada#par_5_55"/>
+    <rdf:_19 rdf:resource="http://www.transporte_madrid.es/parada#par_5_18"/>
+    <rdf:_18 rdf:resource="http://www.transporte_madrid.es/parada#par_5_51"/>
+    <rdf:_1 rdf:resource="http://www.transporte_madrid.es/parada#par_5_38"/>
+    <rdf:_13 rdf:resource="http://www.transporte_madrid.es/parada#par_5_87"/>
+    <rdf:_9 rdf:resource="http://www.transporte_madrid.es/parada#par_5_71"/>
+    <rdf:_32 rdf:resource="http://www.transporte_madrid.es/parada#par_5_16"/>
+    <rdf:_21 rdf:resource="http://www.transporte_madrid.es/parada#par_5_145"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_20 rdf:resource="http://www.transporte_madrid.es/parada#par_5_64"/>
+    <rdf:_12 rdf:resource="http://www.transporte_madrid.es/parada#par_5_75"/>
+    <rdf:_27 rdf:resource="http://www.transporte_madrid.es/parada#par_5_91"/>
+    <rdf:_5 rdf:resource="http://www.transporte_madrid.es/parada#par_5_2"/>
+    <rdf:_30 rdf:resource="http://www.transporte_madrid.es/parada#par_5_20"/>
+    <rdf:_24 rdf:resource="http://www.transporte_madrid.es/parada#par_5_44"/>
+    <rdf:_7 rdf:resource="http://www.transporte_madrid.es/parada#par_5_143"/>
+    <rdf:_22 rdf:resource="http://www.transporte_madrid.es/parada#par_5_58"/>
+    <rdf:_26 rdf:resource="http://www.transporte_madrid.es/parada#par_5_33"/>
+    <rdf:_17 rdf:resource="http://www.transporte_madrid.es/parada#par_5_65"/>
+    <rdf:_25 rdf:resource="http://www.transporte_madrid.es/parada#par_5_82"/>
+    <rdf:_16 rdf:resource="http://www.transporte_madrid.es/parada#par_5_11"/>
+    <rdf:_15 rdf:resource="http://www.transporte_madrid.es/parada#par_5_10"/>
+    <rdf:_11 rdf:resource="http://www.transporte_madrid.es/parada#par_5_90"/>
+    <rdf:_31 rdf:resource="http://www.transporte_madrid.es/parada#par_5_47"/>
+    <rdf:_14 rdf:resource="http://www.transporte_madrid.es/parada#par_5_59"/>
+    <rdf:_3 rdf:resource="http://www.transporte_madrid.es/parada#par_5_45"/>
+    <rdf:_2 rdf:resource="http://www.transporte_madrid.es/parada#par_5_12"/>
+    <rdf:_4 rdf:resource="http://www.transporte_madrid.es/parada#par_5_3"/>
+    <rdf:_29 rdf:resource="http://www.transporte_madrid.es/parada#par_5_6"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8d26fa7553aa4efca86b8845b43c406c">
+    <rdf:_8 rdf:resource="http://www.transporte_madrid.es/parada#par_10_30"/>
+    <rdf:_15 rdf:resource="http://www.transporte_madrid.es/parada#par_10_37"/>
+    <rdf:_11 rdf:resource="http://www.transporte_madrid.es/parada#par_10_33"/>
+    <rdf:_14 rdf:resource="http://www.transporte_madrid.es/parada#par_10_36"/>
+    <rdf:_1 rdf:resource="http://www.transporte_madrid.es/parada#par_10_10"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_2 rdf:resource="http://www.transporte_madrid.es/parada#par_10_25"/>
+    <rdf:_7 rdf:resource="http://www.transporte_madrid.es/parada#par_10_29"/>
+    <rdf:_4 rdf:resource="http://www.transporte_madrid.es/parada#par_10_27"/>
+    <rdf:_10 rdf:resource="http://www.transporte_madrid.es/parada#par_10_32"/>
+    <rdf:_5 rdf:resource="http://www.transporte_madrid.es/parada#par_10_39"/>
+    <rdf:_16 rdf:resource="http://www.transporte_madrid.es/parada#par_10_38"/>
+    <rdf:_12 rdf:resource="http://www.transporte_madrid.es/parada#par_10_34"/>
+    <rdf:_3 rdf:resource="http://www.transporte_madrid.es/parada#par_10_26"/>
+    <rdf:_6 rdf:resource="http://www.transporte_madrid.es/parada#par_10_28"/>
+    <rdf:_9 rdf:resource="http://www.transporte_madrid.es/parada#par_10_31"/>
+    <rdf:_13 rdf:resource="http://www.transporte_madrid.es/parada#par_10_35"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_12">
+    <ns2:name>SOL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/linea#CR_C8">
+    <ns1:hasStations rdf:nodeID="N286ff7a5da5145e58c31dcb366049b4b"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf058752a66fd40ebb0cc95dd1daca798">
+    <rdf:_2 rdf:resource="http://www.transporte_madrid.es/parada#par_4_105"/>
+    <rdf:_26 rdf:resource="http://www.transporte_madrid.es/parada#par_4_128"/>
+    <rdf:_3 rdf:resource="http://www.transporte_madrid.es/parada#par_4_96"/>
+    <rdf:_27 rdf:resource="http://www.transporte_madrid.es/parada#par_4_129"/>
+    <rdf:_20 rdf:resource="http://www.transporte_madrid.es/parada#par_4_122"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_10 rdf:resource="http://www.transporte_madrid.es/parada#par_4_18"/>
+    <rdf:_17 rdf:resource="http://www.transporte_madrid.es/parada#par_4_119"/>
+    <rdf:_16 rdf:resource="http://www.transporte_madrid.es/parada#par_4_64"/>
+    <rdf:_14 rdf:resource="http://www.transporte_madrid.es/parada#par_4_29"/>
+    <rdf:_22 rdf:resource="http://www.transporte_madrid.es/parada#par_4_124"/>
+    <rdf:_4 rdf:resource="http://www.transporte_madrid.es/parada#par_4_107"/>
+    <rdf:_13 rdf:resource="http://www.transporte_madrid.es/parada#par_4_115"/>
+    <rdf:_15 rdf:resource="http://www.transporte_madrid.es/parada#par_4_63"/>
+    <rdf:_8 rdf:resource="http://www.transporte_madrid.es/parada#par_4_259"/>
+    <rdf:_1 rdf:resource="http://www.transporte_madrid.es/parada#par_4_104"/>
+    <rdf:_25 rdf:resource="http://www.transporte_madrid.es/parada#par_4_127"/>
+    <rdf:_7 rdf:resource="http://www.transporte_madrid.es/parada#par_4_43"/>
+    <rdf:_28 rdf:resource="http://www.transporte_madrid.es/parada#par_4_130"/>
+    <rdf:_21 rdf:resource="http://www.transporte_madrid.es/parada#par_4_123"/>
+    <rdf:_11 rdf:resource="http://www.transporte_madrid.es/parada#par_4_113"/>
+    <rdf:_12 rdf:resource="http://www.transporte_madrid.es/parada#par_4_114"/>
+    <rdf:_18 rdf:resource="http://www.transporte_madrid.es/parada#par_4_120"/>
+    <rdf:_9 rdf:resource="http://www.transporte_madrid.es/parada#par_4_111"/>
+    <rdf:_19 rdf:resource="http://www.transporte_madrid.es/parada#par_4_6"/>
+    <rdf:_24 rdf:resource="http://www.transporte_madrid.es/parada#par_4_52"/>
+    <rdf:_6 rdf:resource="http://www.transporte_madrid.es/parada#par_4_109"/>
+    <rdf:_5 rdf:resource="http://www.transporte_madrid.es/parada#par_4_108"/>
+    <rdf:_23 rdf:resource="http://www.transporte_madrid.es/parada#par_4_53"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_159">
+    <ns2:name>AEROPUERTO T1-T2-T3</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_90">
+    <ns2:name>VICALVARO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_3">
+    <ns2:name>ALCALA DE HENARES UNIVERSIDAD</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_5">
+    <ns2:name>ALCORCON</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_55">
+    <ns2:name>PINAR DE LAS ROZAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_173">
+    <ns2:name>IBIZA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_74">
+    <ns2:name>CANILLEJAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N48abaf7b35c7419eb0be02f836483f81">
+    <rdf:_10 rdf:resource="http://www.transporte_madrid.es/parada#par_5_40"/>
+    <rdf:_17 rdf:resource="http://www.transporte_madrid.es/parada#par_5_92"/>
+    <rdf:_18 rdf:resource="http://www.transporte_madrid.es/parada#par_5_95"/>
+    <rdf:_8 rdf:resource="http://www.transporte_madrid.es/parada#par_5_30"/>
+    <rdf:_3 rdf:resource="http://www.transporte_madrid.es/parada#par_5_66"/>
+    <rdf:_9 rdf:resource="http://www.transporte_madrid.es/parada#par_5_7"/>
+    <rdf:_21 rdf:resource="http://www.transporte_madrid.es/parada#par_5_77"/>
+    <rdf:_22 rdf:resource="http://www.transporte_madrid.es/parada#par_5_32"/>
+    <rdf:_19 rdf:resource="http://www.transporte_madrid.es/parada#par_5_41"/>
+    <rdf:_11 rdf:resource="http://www.transporte_madrid.es/parada#par_5_28"/>
+    <rdf:_13 rdf:resource="http://www.transporte_madrid.es/parada#par_5_46"/>
+    <rdf:_20 rdf:resource="http://www.transporte_madrid.es/parada#par_5_105"/>
+    <rdf:_12 rdf:resource="http://www.transporte_madrid.es/parada#par_5_11"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_4 rdf:resource="http://www.transporte_madrid.es/parada#par_5_5"/>
+    <rdf:_15 rdf:resource="http://www.transporte_madrid.es/parada#par_5_52"/>
+    <rdf:_16 rdf:resource="http://www.transporte_madrid.es/parada#par_5_62"/>
+    <rdf:_14 rdf:resource="http://www.transporte_madrid.es/parada#par_5_26"/>
+    <rdf:_5 rdf:resource="http://www.transporte_madrid.es/parada#par_5_72"/>
+    <rdf:_2 rdf:resource="http://www.transporte_madrid.es/parada#par_5_48"/>
+    <rdf:_23 rdf:resource="http://www.transporte_madrid.es/parada#par_5_104"/>
+    <rdf:_7 rdf:resource="http://www.transporte_madrid.es/parada#par_5_1"/>
+    <rdf:_6 rdf:resource="http://www.transporte_madrid.es/parada#par_5_24"/>
+    <rdf:_1 rdf:resource="http://www.transporte_madrid.es/parada#par_5_49"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_98">
+    <ns2:name>CARABANCHEL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_65">
+    <ns2:name>RECOLETOS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N89ec5f28d34a4dadaa1ca3732990c1ca">
+    <rdf:_8 rdf:resource="http://www.transporte_madrid.es/parada#par_5_122"/>
+    <rdf:_14 rdf:resource="http://www.transporte_madrid.es/parada#par_5_85"/>
+    <rdf:_4 rdf:resource="http://www.transporte_madrid.es/parada#par_5_43"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_15 rdf:resource="http://www.transporte_madrid.es/parada#par_5_4"/>
+    <rdf:_13 rdf:resource="http://www.transporte_madrid.es/parada#par_5_84"/>
+    <rdf:_6 rdf:resource="http://www.transporte_madrid.es/parada#par_5_93"/>
+    <rdf:_1 rdf:resource="http://www.transporte_madrid.es/parada#par_5_53"/>
+    <rdf:_10 rdf:resource="http://www.transporte_madrid.es/parada#par_5_18"/>
+    <rdf:_7 rdf:resource="http://www.transporte_madrid.es/parada#par_5_11"/>
+    <rdf:_3 rdf:resource="http://www.transporte_madrid.es/parada#par_5_34"/>
+    <rdf:_2 rdf:resource="http://www.transporte_madrid.es/parada#par_5_36"/>
+    <rdf:_9 rdf:resource="http://www.transporte_madrid.es/parada#par_5_51"/>
+    <rdf:_11 rdf:resource="http://www.transporte_madrid.es/parada#par_5_31"/>
+    <rdf:_5 rdf:resource="http://www.transporte_madrid.es/parada#par_5_92"/>
+    <rdf:_12 rdf:resource="http://www.transporte_madrid.es/parada#par_5_15"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N71d229c6814f439b9da8df18835b74c5">
+    <rdf:_12 rdf:resource="http://www.transporte_madrid.es/parada#par_4_187"/>
+    <rdf:_31 rdf:resource="http://www.transporte_madrid.es/parada#par_4_205"/>
+    <rdf:_9 rdf:resource="http://www.transporte_madrid.es/parada#par_4_276"/>
+    <rdf:_19 rdf:resource="http://www.transporte_madrid.es/parada#par_4_142"/>
+    <rdf:_17 rdf:resource="http://www.transporte_madrid.es/parada#par_4_192"/>
+    <rdf:_11 rdf:resource="http://www.transporte_madrid.es/parada#par_4_274"/>
+    <rdf:_20 rdf:resource="http://www.transporte_madrid.es/parada#par_4_57"/>
+    <rdf:_14 rdf:resource="http://www.transporte_madrid.es/parada#par_4_261"/>
+    <rdf:_5 rdf:resource="http://www.transporte_madrid.es/parada#par_4_280"/>
+    <rdf:_26 rdf:resource="http://www.transporte_madrid.es/parada#par_4_103"/>
+    <rdf:_3 rdf:resource="http://www.transporte_madrid.es/parada#par_4_282"/>
+    <rdf:_22 rdf:resource="http://www.transporte_madrid.es/parada#par_4_50"/>
+    <rdf:_29 rdf:resource="http://www.transporte_madrid.es/parada#par_4_203"/>
+    <rdf:_23 rdf:resource="http://www.transporte_madrid.es/parada#par_4_127"/>
+    <rdf:_30 rdf:resource="http://www.transporte_madrid.es/parada#par_4_204"/>
+    <rdf:_15 rdf:resource="http://www.transporte_madrid.es/parada#par_4_1"/>
+    <rdf:_24 rdf:resource="http://www.transporte_madrid.es/parada#par_4_199"/>
+    <rdf:_21 rdf:resource="http://www.transporte_madrid.es/parada#par_4_10"/>
+    <rdf:_25 rdf:resource="http://www.transporte_madrid.es/parada#par_4_200"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_10 rdf:resource="http://www.transporte_madrid.es/parada#par_4_275"/>
+    <rdf:_27 rdf:resource="http://www.transporte_madrid.es/parada#par_4_202"/>
+    <rdf:_1 rdf:resource="http://www.transporte_madrid.es/parada#par_4_284"/>
+    <rdf:_18 rdf:resource="http://www.transporte_madrid.es/parada#par_4_120"/>
+    <rdf:_7 rdf:resource="http://www.transporte_madrid.es/parada#par_4_278"/>
+    <rdf:_4 rdf:resource="http://www.transporte_madrid.es/parada#par_4_281"/>
+    <rdf:_8 rdf:resource="http://www.transporte_madrid.es/parada#par_4_277"/>
+    <rdf:_16 rdf:resource="http://www.transporte_madrid.es/parada#par_4_191"/>
+    <rdf:_6 rdf:resource="http://www.transporte_madrid.es/parada#par_4_279"/>
+    <rdf:_2 rdf:resource="http://www.transporte_madrid.es/parada#par_4_283"/>
+    <rdf:_28 rdf:resource="http://www.transporte_madrid.es/parada#par_4_257"/>
+    <rdf:_13 rdf:resource="http://www.transporte_madrid.es/parada#par_4_188"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N76ffd525e51e41c3a5ee1902253335b7">
+    <rdf:_2 rdf:resource="http://www.transporte_madrid.es/parada#par_4_210"/>
+    <rdf:_25 rdf:resource="http://www.transporte_madrid.es/parada#par_4_233"/>
+    <rdf:_24 rdf:resource="http://www.transporte_madrid.es/parada#par_4_232"/>
+    <rdf:_19 rdf:resource="http://www.transporte_madrid.es/parada#par_4_227"/>
+    <rdf:_3 rdf:resource="http://www.transporte_madrid.es/parada#par_4_211"/>
+    <rdf:_11 rdf:resource="http://www.transporte_madrid.es/parada#par_4_219"/>
+    <rdf:_17 rdf:resource="http://www.transporte_madrid.es/parada#par_4_225"/>
+    <rdf:_7 rdf:resource="http://www.transporte_madrid.es/parada#par_4_215"/>
+    <rdf:_20 rdf:resource="http://www.transporte_madrid.es/parada#par_4_228"/>
+    <rdf:_15 rdf:resource="http://www.transporte_madrid.es/parada#par_4_223"/>
+    <rdf:_16 rdf:resource="http://www.transporte_madrid.es/parada#par_4_224"/>
+    <rdf:_12 rdf:resource="http://www.transporte_madrid.es/parada#par_4_220"/>
+    <rdf:_6 rdf:resource="http://www.transporte_madrid.es/parada#par_4_214"/>
+    <rdf:_22 rdf:resource="http://www.transporte_madrid.es/parada#par_4_230"/>
+    <rdf:_27 rdf:resource="http://www.transporte_madrid.es/parada#par_4_235"/>
+    <rdf:_9 rdf:resource="http://www.transporte_madrid.es/parada#par_4_217"/>
+    <rdf:_4 rdf:resource="http://www.transporte_madrid.es/parada#par_4_212"/>
+    <rdf:_18 rdf:resource="http://www.transporte_madrid.es/parada#par_4_226"/>
+    <rdf:_21 rdf:resource="http://www.transporte_madrid.es/parada#par_4_229"/>
+    <rdf:_13 rdf:resource="http://www.transporte_madrid.es/parada#par_4_221"/>
+    <rdf:_5 rdf:resource="http://www.transporte_madrid.es/parada#par_4_213"/>
+    <rdf:_26 rdf:resource="http://www.transporte_madrid.es/parada#par_4_234"/>
+    <rdf:_8 rdf:resource="http://www.transporte_madrid.es/parada#par_4_216"/>
+    <rdf:_28 rdf:resource="http://www.transporte_madrid.es/parada#par_4_236"/>
+    <rdf:_14 rdf:resource="http://www.transporte_madrid.es/parada#par_4_222"/>
+    <rdf:_23 rdf:resource="http://www.transporte_madrid.es/parada#par_4_231"/>
+    <rdf:_1 rdf:resource="http://www.transporte_madrid.es/parada#par_4_205"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_10 rdf:resource="http://www.transporte_madrid.es/parada#par_4_218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_90">
+    <ns2:name>LA LATINA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_181">
+    <ns2:name>SAN CIPRIANO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_192">
+    <ns2:name>SANTIAGO BERNABEU</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1910a8efb6124c04abcd2ad925ced5ac">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_4 rdf:resource="http://www.transporte_madrid.es/parada#par_4_254"/>
+    <rdf:_3 rdf:resource="http://www.transporte_madrid.es/parada#par_4_208"/>
+    <rdf:_5 rdf:resource="http://www.transporte_madrid.es/parada#par_4_255"/>
+    <rdf:_7 rdf:resource="http://www.transporte_madrid.es/parada#par_4_305"/>
+    <rdf:_6 rdf:resource="http://www.transporte_madrid.es/parada#par_4_256"/>
+    <rdf:_1 rdf:resource="http://www.transporte_madrid.es/parada#par_4_108"/>
+    <rdf:_2 rdf:resource="http://www.transporte_madrid.es/parada#par_4_207"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_20">
+    <ns2:name>CAMPUS DE SOMOSAGUAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Naa6d097464544620af089034fdebb8f3">
+    <rdf:_2 rdf:resource="http://www.transporte_madrid.es/parada#par_5_57"/>
+    <rdf:_6 rdf:resource="http://www.transporte_madrid.es/parada#par_5_65"/>
+    <rdf:_10 rdf:resource="http://www.transporte_madrid.es/parada#par_5_144"/>
+    <rdf:_3 rdf:resource="http://www.transporte_madrid.es/parada#par_5_25"/>
+    <rdf:_9 rdf:resource="http://www.transporte_madrid.es/parada#par_5_133"/>
+    <rdf:_4 rdf:resource="http://www.transporte_madrid.es/parada#par_5_46"/>
+    <rdf:_11 rdf:resource="http://www.transporte_madrid.es/parada#par_5_142"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_1 rdf:resource="http://www.transporte_madrid.es/parada#par_5_61"/>
+    <rdf:_8 rdf:resource="http://www.transporte_madrid.es/parada#par_5_18"/>
+    <rdf:_5 rdf:resource="http://www.transporte_madrid.es/parada#par_5_11"/>
+    <rdf:_7 rdf:resource="http://www.transporte_madrid.es/parada#par_5_51"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4bb678d63d3643b688beb89cd70ca596">
+    <rdf:_9 rdf:resource="http://www.transporte_madrid.es/parada#par_4_31"/>
+    <rdf:_8 rdf:resource="http://www.transporte_madrid.es/parada#par_4_30"/>
+    <rdf:_13 rdf:resource="http://www.transporte_madrid.es/parada#par_4_12"/>
+    <rdf:_6 rdf:resource="http://www.transporte_madrid.es/parada#par_4_28"/>
+    <rdf:_18 rdf:resource="http://www.transporte_madrid.es/parada#par_4_40"/>
+    <rdf:_1 rdf:resource="http://www.transporte_madrid.es/parada#par_4_325"/>
+    <rdf:_14 rdf:resource="http://www.transporte_madrid.es/parada#par_4_36"/>
+    <rdf:_3 rdf:resource="http://www.transporte_madrid.es/parada#par_4_323"/>
+    <rdf:_16 rdf:resource="http://www.transporte_madrid.es/parada#par_4_38"/>
+    <rdf:_7 rdf:resource="http://www.transporte_madrid.es/parada#par_4_29"/>
+    <rdf:_5 rdf:resource="http://www.transporte_madrid.es/parada#par_4_260"/>
+    <rdf:_2 rdf:resource="http://www.transporte_madrid.es/parada#par_4_324"/>
+    <rdf:_10 rdf:resource="http://www.transporte_madrid.es/parada#par_4_32"/>
+    <rdf:_15 rdf:resource="http://www.transporte_madrid.es/parada#par_4_37"/>
+    <rdf:_11 rdf:resource="http://www.transporte_madrid.es/parada#par_4_33"/>
+    <rdf:_12 rdf:resource="http://www.transporte_madrid.es/parada#par_4_34"/>
+    <rdf:_4 rdf:resource="http://www.transporte_madrid.es/parada#par_4_322"/>
+    <rdf:_17 rdf:resource="http://www.transporte_madrid.es/parada#par_4_39"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_20 rdf:resource="http://www.transporte_madrid.es/parada#par_4_6"/>
+    <rdf:_19 rdf:resource="http://www.transporte_madrid.es/parada#par_4_41"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_279">
+    <ns2:name>LA MORALEJA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_293">
+    <ns2:name>LA GAVIA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_185">
+    <ns2:name>LA POVEDA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_182">
+    <ns2:name>PUERTA DE ARGANDA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_5">
+    <ns2:name>ALVAREZ DE VILLAAMIL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_50">
+    <ns2:name>PLAZA DE TOROS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_70">
+    <ns2:name>SAN CRISTOBAL INDUSTRIAL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_322">
+    <ns2:name>LA ALMUDENA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_84">
+    <ns2:name>RUBEN DARIO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/linea#METRO_5">
+    <ns1:hasStations rdf:nodeID="N077847a9fe5d4fc1b8f5492ea00856c6"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N76b2ae7cbbba4c1d80bf7a02062e3c22">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_15 rdf:resource="http://www.transporte_madrid.es/parada#par_5_11"/>
+    <rdf:_20 rdf:resource="http://www.transporte_madrid.es/parada#par_5_144"/>
+    <rdf:_6 rdf:resource="http://www.transporte_madrid.es/parada#par_5_68"/>
+    <rdf:_7 rdf:resource="http://www.transporte_madrid.es/parada#par_5_42"/>
+    <rdf:_3 rdf:resource="http://www.transporte_madrid.es/parada#par_5_82"/>
+    <rdf:_4 rdf:resource="http://www.transporte_madrid.es/parada#par_5_44"/>
+    <rdf:_12 rdf:resource="http://www.transporte_madrid.es/parada#par_5_57"/>
+    <rdf:_17 rdf:resource="http://www.transporte_madrid.es/parada#par_5_51"/>
+    <rdf:_1 rdf:resource="http://www.transporte_madrid.es/parada#par_5_91"/>
+    <rdf:_16 rdf:resource="http://www.transporte_madrid.es/parada#par_5_65"/>
+    <rdf:_5 rdf:resource="http://www.transporte_madrid.es/parada#par_5_55"/>
+    <rdf:_14 rdf:resource="http://www.transporte_madrid.es/parada#par_5_46"/>
+    <rdf:_21 rdf:resource="http://www.transporte_madrid.es/parada#par_5_142"/>
+    <rdf:_11 rdf:resource="http://www.transporte_madrid.es/parada#par_5_61"/>
+    <rdf:_8 rdf:resource="http://www.transporte_madrid.es/parada#par_5_13"/>
+    <rdf:_19 rdf:resource="http://www.transporte_madrid.es/parada#par_5_133"/>
+    <rdf:_2 rdf:resource="http://www.transporte_madrid.es/parada#par_5_33"/>
+    <rdf:_9 rdf:resource="http://www.transporte_madrid.es/parada#par_5_60"/>
+    <rdf:_18 rdf:resource="http://www.transporte_madrid.es/parada#par_5_18"/>
+    <rdf:_13 rdf:resource="http://www.transporte_madrid.es/parada#par_5_25"/>
+    <rdf:_10 rdf:resource="http://www.transporte_madrid.es/parada#par_5_9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_14">
+    <ns2:name>ANTON MARTIN</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/linea#CR_C4a">
+    <ns1:hasStations rdf:nodeID="N89ec5f28d34a4dadaa1ca3732990c1ca"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_53">
+    <ns2:name>PARLA CENTRO-BULEVAR NORTE</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N08e598ca872b40759f51143b33863c85">
+    <rdf:_6 rdf:resource="http://www.transporte_madrid.es/parada#par_5_106"/>
+    <rdf:_1 rdf:resource="http://www.transporte_madrid.es/parada#par_5_38"/>
+    <rdf:_18 rdf:resource="http://www.transporte_madrid.es/parada#par_5_51"/>
+    <rdf:_9 rdf:resource="http://www.transporte_madrid.es/parada#par_5_71"/>
+    <rdf:_12 rdf:resource="http://www.transporte_madrid.es/parada#par_5_75"/>
+    <rdf:_17 rdf:resource="http://www.transporte_madrid.es/parada#par_5_65"/>
+    <rdf:_19 rdf:resource="http://www.transporte_madrid.es/parada#par_5_18"/>
+    <rdf:_11 rdf:resource="http://www.transporte_madrid.es/parada#par_5_90"/>
+    <rdf:_10 rdf:resource="http://www.transporte_madrid.es/parada#par_5_22"/>
+    <rdf:_5 rdf:resource="http://www.transporte_madrid.es/parada#par_5_2"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_7 rdf:resource="http://www.transporte_madrid.es/parada#par_5_143"/>
+    <rdf:_2 rdf:resource="http://www.transporte_madrid.es/parada#par_5_12"/>
+    <rdf:_14 rdf:resource="http://www.transporte_madrid.es/parada#par_5_59"/>
+    <rdf:_16 rdf:resource="http://www.transporte_madrid.es/parada#par_5_11"/>
+    <rdf:_4 rdf:resource="http://www.transporte_madrid.es/parada#par_5_3"/>
+    <rdf:_8 rdf:resource="http://www.transporte_madrid.es/parada#par_5_81"/>
+    <rdf:_13 rdf:resource="http://www.transporte_madrid.es/parada#par_5_87"/>
+    <rdf:_3 rdf:resource="http://www.transporte_madrid.es/parada#par_5_45"/>
+    <rdf:_15 rdf:resource="http://www.transporte_madrid.es/parada#par_5_10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_62">
+    <ns2:name>PUENTE ALCOCER</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_12">
+    <ns2:name>COLONIA DE LOS ANGELES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_91">
+    <ns2:name>PUERTA DE TOLEDO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_216">
+    <ns2:name>HOSPITAL DE MOSTOLES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_236">
+    <ns2:name>SAN NICASIO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_87">
+    <ns2:name>VALLECAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_30">
+    <ns2:name>GOYA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_152">
+    <ns2:name>LACOMA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_275">
+    <ns2:name>MONTECARMELO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_9">
+    <ns2:name>ARAVACA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_59">
+    <ns2:name>SERRANO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_15">
+    <ns2:name>CANTOBLANCO UNIVERSIDAD</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_213">
+    <ns2:name>UNIVERSIDAD REY JUAN CARLOS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_104">
+    <ns2:name>LAGUNA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_165">
+    <ns2:name>DUQUE DE PASTRANA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_300">
+    <ns2:name>RIVAS FUTURA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_58">
+    <ns2:name>PARQUE PARLA ESTE</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_123">
+    <ns2:name>VICENTE ALEIXANDRE</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_1">
+    <ns2:name>PINAR DE CHAMARTIN</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_6">
+    <ns2:name>BLASCO IBANEZ</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_202">
+    <ns2:name>COLONIA JARDIN</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_85">
+    <ns2:name>VALDELASFUENTES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_224">
+    <ns2:name>CONSERVATORIO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_272">
+    <ns2:name>SAN CRISTOBAL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_62">
+    <ns2:name>LISTA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_12">
+    <ns2:name>AZUQUECA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_53">
+    <ns2:name>PARLA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_212">
+    <ns2:name>PARQUE OESTE</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_37">
+    <ns2:name>SANTO DOMINGO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_30">
+    <ns2:name>VENTORRO DEL CANO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_9">
+    <ns2:name>BILBAO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_208">
+    <ns2:name>PAN BENDITO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_230">
+    <ns2:name>EL BERCIAL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_64">
+    <ns2:name>AVENIDA DE AMERICA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_130">
+    <ns2:name>LUCERO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_72">
+    <ns2:name>SAN LORENZO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_287">
+    <ns2:name>BARRIO DEL PUERTO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_134">
+    <ns2:name>SIMANCAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_326">
+    <ns2:name>MIRASIERRA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/linea#CR_C7">
+    <ns1:hasStations rdf:nodeID="N20914467fbda46a5852e9fdcfe8419d2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_210">
+    <ns2:name>PARQUE LISBOA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/linea#ML_1">
+    <ns1:hasStations rdf:nodeID="N7665edc607834572a5a35ce7b4f094fa"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_44">
+    <ns2:name>LAS MATAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_91">
+    <ns2:name>VILLALBA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_31">
+    <ns2:name>PRADO DEL ESPINO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_162">
+    <ns2:name>BARRIO DEL PILAR</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_149">
+    <ns2:name>ANTONIO MACHADO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_45">
+    <ns2:name>PALOS DE LA FRONTERA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/linea#METRO_1">
+    <ns1:hasStations rdf:nodeID="N7c28967ed8104c168d3fc33e4b465331"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_119">
+    <ns2:name>REPUBLICA ARGENTINA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_166">
+    <ns2:name>PIO XII</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_79">
+    <ns2:name>QUINTANA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_3">
+    <ns2:name>VIRGEN DEL CORTIJO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_10">
+    <ns2:name>TRIBUNAL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_148">
+    <ns2:name>VALDEZARZA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_61">
+    <ns2:name>PRINCIPE PIO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_51">
+    <ns2:name>VENTURA RODRIGUEZ</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/linea#CR_C3a">
+    <ns1:hasStations rdf:nodeID="N999151dc78f74d948f3da997648173a4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_150">
+    <ns2:name>PENAGRANDE</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_105">
+    <ns2:name>CARPETANA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/linea#ML_2">
+    <ns1:hasStations rdf:nodeID="N4228e1f3413c4da183fa84ec2ef8b95a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/linea#ML_3">
+    <ns1:hasStations rdf:nodeID="N8d26fa7553aa4efca86b8845b43c406c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_168">
+    <ns2:name>CONCHA ESPINA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_323">
+    <ns2:name>ALSACIA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_278">
+    <ns2:name>LA GRANJA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_10">
+    <ns2:name>COLONIA JARDIN</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_94">
+    <ns2:name>MARQUES DE VADILLO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_76">
+    <ns2:name>SANTA MARIA DE LA ALAMEDA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_142">
+    <ns2:name>GREGORIO MARANON</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_67">
+    <ns2:name>AVENIDA DE LA PAZ</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfea2032797d24d0eb37daa76a2681888">
+    <rdf:_2 rdf:resource="http://www.transporte_madrid.es/parada#par_4_127"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_1 rdf:resource="http://www.transporte_madrid.es/parada#par_4_36"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/linea#METRO_R">
+    <ns1:hasStations rdf:nodeID="Nfea2032797d24d0eb37daa76a2681888"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_69">
+    <ns2:name>ESPERANZA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_6">
+    <ns2:name>ALPEDRETE</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_4">
+    <ns2:name>ALCOBENDAS-S.S. DE LOS REYES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_139">
+    <ns2:name>PARQUE DE LAS AVENIDAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_82">
+    <ns2:name>TORRELODONES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_207">
+    <ns2:name>ABRANTES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_105">
+    <ns2:name>PARQUE POLVORANCA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_34">
+    <ns2:name>BOADILLA CENTRO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf0e4314993014822bdac24344a4ad987">
+    <rdf:_3 rdf:resource="http://www.transporte_madrid.es/parada#par_5_23"/>
+    <rdf:_2 rdf:resource="http://www.transporte_madrid.es/parada#par_5_63"/>
+    <rdf:_1 rdf:resource="http://www.transporte_madrid.es/parada#par_5_16"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_27">
+    <ns2:name>CONGOSTO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_18">
+    <ns2:name>BELGICA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_145">
+    <ns2:name>ISLAS FILIPINAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_29">
+    <ns2:name>EL ESCORIAL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_23">
+    <ns2:name>ALTO DEL ARENAL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_6">
+    <ns2:name>CUATRO CAMINOS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_72">
+    <ns2:name>SAN JOSE DE VALDERAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_129">
+    <ns2:name>ALTO DE EXTREMADURA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_56">
+    <ns2:name>REYES CATOLICOS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_13">
+    <ns2:name>EL BARRIAL-C.C. POZUELO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_16">
+    <ns2:name>ATOCHA-RENFE</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_102">
+    <ns2:name>CAMPAMENTO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_84">
+    <ns2:name>UNIVERSIDAD P. COMILLAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_26">
+    <ns2:name>JOSE ISBERT</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_257">
+    <ns2:name>AVIACION ESPANOLA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_7">
+    <ns2:name>RIOS ROSAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_154">
+    <ns2:name>PITIS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_122">
+    <ns2:name>SOL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_76">
+    <ns2:name>SUANZES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_255">
+    <ns2:name>CARABANCHEL ALTO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_2">
+    <ns2:name>FUENTE DE LA MORA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_1">
+    <ns2:name>LAS AGUILAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_60">
+    <ns2:name>TIERRA NORTE</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_136">
+    <ns2:name>ASCAO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_36">
+    <ns2:name>GETAFE SECTOR 3</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_53">
+    <ns2:name>MONCLOA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_19">
+    <ns2:name>PUENTE DE VALLECAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_267">
+    <ns2:name>ALMENDRALES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_73">
+    <ns2:name>PARQUE DE SANTA MARIA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_305">
+    <ns2:name>LA FORTUNA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_268">
+    <ns2:name>HOSPITAL 12 DE OCTUBRE</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_158">
+    <ns2:name>FERIA DE MADRID</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_80">
+    <ns2:name>EL CARMEN</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_25">
+    <ns2:name>DELICIAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_258">
+    <ns2:name>PINAR DEL REY</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_15">
+    <ns2:name>ESTACION DEL ARTE</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_96">
+    <ns2:name>OPORTO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_108">
+    <ns2:name>PLAZA ELIPTICA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_93">
+    <ns2:name>VILLAVERDE BAJO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_66">
+    <ns2:name>LAS RETAMAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_49">
+    <ns2:name>MOSTOLES EL SOTO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_33">
+    <ns2:name>BANCO DE ESPANA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_262">
+    <ns2:name>BAMBU</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_233">
+    <ns2:name>CASA DEL RELOJ</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_52">
+    <ns2:name>ORCASITAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_36">
+    <ns2:name>OPERA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_8">
+    <ns2:name>ARANJUEZ</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_26">
+    <ns2:name>VILLA DE VALLECAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_20">
+    <ns2:name>COLLADO MEDIANO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_273">
+    <ns2:name>VILLAVERDE ALTO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_2">
+    <ns2:name>VALDEACEDERAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_22">
+    <ns2:name>COSLADA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_69">
+    <ns2:name>SAN CRISTOBAL DE LOS ANGELES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_147">
+    <ns2:name>FRANCOS RODRIGUEZ</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_40">
+    <ns2:name>LAGUNA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_65">
+    <ns2:name>ESTRELLA POLAR SUR</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_83">
+    <ns2:name>NUNEZ DE BALBOA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_32">
+    <ns2:name>CANTABRIA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_31">
+    <ns2:name>FUENCARRAL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_199">
+    <ns2:name>LAGO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_46">
+    <ns2:name>EMBAJADORES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_57">
+    <ns2:name>ALONSO MARTINEZ</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_177">
+    <ns2:name>ARTILLEROS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_93">
+    <ns2:name>PIRAMIDES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_27">
+    <ns2:name>CIUDAD DEL CINE</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/linea#CR_C5">
+    <ns1:hasStations rdf:nodeID="N48abaf7b35c7419eb0be02f836483f81"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_42">
+    <ns2:name>MAJADAHONDA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_52">
+    <ns2:name>LA BALLENA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_57">
+    <ns2:name>PIRAMIDES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_97">
+    <ns2:name>VISTA ALEGRE</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_180">
+    <ns2:name>VICALVARO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_215">
+    <ns2:name>PRADILLO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_51">
+    <ns2:name>JULIO ROMERO DE TORRES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_188">
+    <ns2:name>BEGONA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_46">
+    <ns2:name>MENDEZ ALVARO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_75">
+    <ns2:name>TORRE ARIAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_124">
+    <ns2:name>CIUDAD UNIVERSITARIA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_20">
+    <ns2:name>NUEVA NUMANCIA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_114">
+    <ns2:name>SAINZ DE BARANDA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_286">
+    <ns2:name>ESTADIO METROPOLITANO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_24">
+    <ns2:name>MIGUEL HERNANDEZ</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_324">
+    <ns2:name>AVENIDA DE GUADALAJARA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_290">
+    <ns2:name>SAN FERNANDO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_63">
+    <ns2:name>DIEGO DE LEON</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_70">
+    <ns2:name>CANILLAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_345">
+    <ns2:name>PACO DE LUCIA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_33">
+    <ns2:name>FERIAL DE BOADILLA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_18">
+    <ns2:name>PACIFICO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/linea#METRO_9">
+    <ns1:hasStations rdf:nodeID="N921a5247a1b64863bee65f88338cbfc1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_205">
+    <ns2:name>PUERTA DEL SUR</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_289">
+    <ns2:name>LA RAMBLA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_284">
+    <ns2:name>HOSPITAL INFANTA SOFIA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_86">
+    <ns2:name>CHUECA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_120">
+    <ns2:name>NUEVOS MINISTERIOS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_281">
+    <ns2:name>MANUEL DE FALLA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_221">
+    <ns2:name>FUENLABRADA CENTRAL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_45">
+    <ns2:name>MECO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_183">
+    <ns2:name>RIVAS URBANIZACIONES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_113">
+    <ns2:name>CONDE DE CASAL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_285">
+    <ns2:name>AEROPUERTO T4</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_38">
+    <ns2:name>PUERTA DE BOADILLA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_228">
+    <ns2:name>EL CASAR</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_24">
+    <ns2:name>CUATRO VIENTOS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_169">
+    <ns2:name>CRUZ DEL RAYO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_29">
+    <ns2:name>MONTEPRINCIPE</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_56">
+    <ns2:name>PINTO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_104">
+    <ns2:name>HUMANES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_254">
+    <ns2:name>SAN FRANCISCO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_103">
+    <ns2:name>EL CASAR</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_67">
+    <ns2:name>ROBLEDO DE CHAVELA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_143">
+    <ns2:name>ALONSO CANO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_283">
+    <ns2:name>REYES CATOLICOS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_143">
+    <ns2:name>SOTO DEL HENARES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_225">
+    <ns2:name>ALONSO DE MENDOZA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_145">
+    <ns2:name>MIRASIERRA-PACO DE LUCIA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_39">
+    <ns2:name>COCHERAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_288">
+    <ns2:name>COSLADA CENTRAL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_3">
+    <ns2:name>TETUAN</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_94">
+    <ns2:name>ZARZALEJO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_263">
+    <ns2:name>PINAR DE CHAMARTIN</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_217">
+    <ns2:name>MANUELA MALASANA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_253">
+    <ns2:name>EL CAPRICHO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_41">
+    <ns2:name>CANAL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_74">
+    <ns2:name>SAN YAGO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_161">
+    <ns2:name>HERRERA ORIA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_13">
+    <ns2:name>TIRSO DE MOLINA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_122">
+    <ns2:name>GUZMAN EL BUENO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_10">
+    <ns2:name>ASAMBLEA DE MADRID-ENTREVIAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/linea#ML_4">
+    <ns1:hasStations rdf:nodeID="N253ed7f4db3a466a95da19712074d3e5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_65">
+    <ns2:name>PROSPERIDAD</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/linea#METRO_11">
+    <ns1:hasStations rdf:nodeID="N1910a8efb6124c04abcd2ad925ced5ac"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_211">
+    <ns2:name>ALCORCON CENTRAL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_16">
+    <ns2:name>CERCEDILLA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_4">
+    <ns2:name>ESTRECHO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_106">
+    <ns2:name>LA GARENA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_25">
+    <ns2:name>SIERRA DE GUADALUPE</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_86">
+    <ns2:name>VALDEMORO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_156">
+    <ns2:name>COLOMBIA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_68">
+    <ns2:name>LAS ROZAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_160">
+    <ns2:name>BARAJAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_175">
+    <ns2:name>ESTRELLA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/linea#CR_C1">
+    <ns1:hasStations rdf:nodeID="Naa6d097464544620af089034fdebb8f3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_276">
+    <ns2:name>LAS TABLAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_109">
+    <ns2:name>USERA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_227">
+    <ns2:name>JUAN DE LA CIERVA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_43">
+    <ns2:name>LAS MARGARITAS-UNIVERSIDAD</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/linea#METRO_2">
+    <ns1:hasStations rdf:nodeID="N4bb678d63d3643b688beb89cd70ca596"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_128">
+    <ns2:name>PUERTA DEL ANGEL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_47">
+    <ns2:name>LAVAPIES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_21">
+    <ns2:name>COLMENAR VIEJO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_9">
+    <ns2:name>LAS TABLAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_47">
+    <ns2:name>LOS MOLINOS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_111">
+    <ns2:name>MENDEZ ALVARO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_277">
+    <ns2:name>RONDA DE LA COMUNICACION</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_325">
+    <ns2:name>LAS ROSAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_44">
+    <ns2:name>DELICIAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/linea#CR_C9">
+    <ns1:hasStations rdf:nodeID="Nf0e4314993014822bdac24344a4ad987"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_282">
+    <ns2:name>BAUNATAL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_222">
+    <ns2:name>PARQUE DE LOS ESTADOS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_99">
+    <ns2:name>EUGENIA DE MONTIJO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_234">
+    <ns2:name>HOSPITAL SEVERO OCHOA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_179">
+    <ns2:name>VALDEBERNARDO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_30">
+    <ns2:name>FANJUL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_92">
+    <ns2:name>VILLAVERDE ALTO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_28">
+    <ns2:name>VENTAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_191">
+    <ns2:name>CUZCO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_219">
+    <ns2:name>HOSPITAL DE FUENLABRADA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_229">
+    <ns2:name>LOS ESPARTALES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_37">
+    <ns2:name>INFANTE DON LUIS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_60">
+    <ns2:name>POZUELO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_200">
+    <ns2:name>BATAN</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_271">
+    <ns2:name>VILLAVERDE BAJO-CRUCE</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_38">
+    <ns2:name>NOVICIADO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_223">
+    <ns2:name>ARROYO CULEBRO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_43">
+    <ns2:name>LEGAZPI</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_176">
+    <ns2:name>VINATEROS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_22">
+    <ns2:name>BUENOS AIRES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_21">
+    <ns2:name>PORTAZGO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_296">
+    <ns2:name>HOSPITAL DEL HENARES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/linea#CR_C3">
+    <ns1:hasStations rdf:nodeID="Nababaef0eb10435cbb4fc96c0b499353"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_280">
+    <ns2:name>MARQUES DE LA VALDAVIA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_19">
+    <ns2:name>CIEMPOZUELOS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_50">
+    <ns2:name>PLAZA DE ESPANA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_214">
+    <ns2:name>MOSTOLES CENTRAL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_35">
+    <ns2:name>GETAFE INDUSTRIAL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_40">
+    <ns2:name>QUEVEDO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_38">
+    <ns2:name>GUADALAJARA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_32">
+    <ns2:name>RETIRO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_153">
+    <ns2:name>ARROYOFRESNO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_270">
+    <ns2:name>CIUDAD DE LOS ANGELES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/linea#METRO_8">
+    <ns1:hasStations rdf:nodeID="N1d1eade6d4cd43548b79d1eb9cc6b557"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_63">
+    <ns2:name>VENUS SUR</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_107">
+    <ns2:name>OPANEL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_1">
+    <ns2:name>PLAZA DE CASTILLA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/linea#CR_C2">
+    <ns1:hasStations rdf:nodeID="N08e598ca872b40759f51143b33863c85"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_5">
+    <ns2:name>ALVARADO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_71">
+    <ns2:name>SAN FERNANDO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_115">
+    <ns2:name>ODONNELL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_66">
+    <ns2:name>JAIME I NORTE</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_100">
+    <ns2:name>ALUCHE</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_71">
+    <ns2:name>MAR DE CRISTAL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_264">
+    <ns2:name>HORTALEZA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_54">
+    <ns2:name>IGLESIA CENTRO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_133">
+    <ns2:name>FUENTE DE LA MORA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_133">
+    <ns2:name>SAN BLAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/linea#METRO_6">
+    <ns1:hasStations rdf:nodeID="Nf058752a66fd40ebb0cc95dd1daca798"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_151">
+    <ns2:name>AVENIDA DE LA ILUSTRACION</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_135">
+    <ns2:name>GARCIA NOBLEJAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_292">
+    <ns2:name>HENARES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/linea#CR_C10">
+    <ns1:hasStations rdf:nodeID="N76b2ae7cbbba4c1d80bf7a02062e3c22"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_59">
+    <ns2:name>EL POZO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_95">
+    <ns2:name>URGEL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_33">
+    <ns2:name>GALAPAGAR-LA NAVATA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_77">
+    <ns2:name>CIUDAD LINEAL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_163">
+    <ns2:name>VENTILLA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_17">
+    <ns2:name>MENENDEZ PELAYO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_63">
+    <ns2:name>PUERTO DE NAVACERRADA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_28">
+    <ns2:name>EMBAJADORES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_186">
+    <ns2:name>ARGANDA DEL REY</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_4">
+    <ns2:name>ANTONIO SAURA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_226">
+    <ns2:name>GETAFE CENTRAL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_77">
+    <ns2:name>LA SERNA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_103">
+    <ns2:name>CASA DE CAMPO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_220">
+    <ns2:name>PARQUE EUROPA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_101">
+    <ns2:name>EMPALME</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_78">
+    <ns2:name>PUEBLO NUEVO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_235">
+    <ns2:name>LEGANES CENTRAL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_8">
+    <ns2:name>IGLESIA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_36">
+    <ns2:name>SIGLO XXI</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_32">
+    <ns2:name>FUENLABRADA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_48">
+    <ns2:name>MOSTOLES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_31">
+    <ns2:name>PRINCIPE DE VERGARA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_2">
+    <ns2:name>ALCALA DE HENARES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/linea#METRO_3">
+    <ns1:hasStations rdf:nodeID="N2e6eaa30468d4a31b7d9fc6acb0561cb"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_75">
+    <ns2:name>SANTA EUGENIA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_23">
+    <ns2:name>COTOS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_256">
+    <ns2:name>LA PESETA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_11">
+    <ns2:name>PRADO DE LA VEGA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_51">
+    <ns2:name>NUEVOS MINISTERIOS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_203">
+    <ns2:name>CUATRO VIENTOS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_231">
+    <ns2:name>EL CARRASCAL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_95">
+    <ns2:name>ZARZAQUEMADA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_13">
+    <ns2:name>PRADO DEL REY</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_64">
+    <ns2:name>RAMON Y CAJAL</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_61">
+    <ns2:name>TIERRA SUR</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_58">
+    <ns2:name>PITIS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_35">
+    <ns2:name>NUEVO MUNDO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/linea#METRO_10">
+    <ns1:hasStations rdf:nodeID="N71d229c6814f439b9da8df18835b74c5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_58">
+    <ns2:name>COLON</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_261">
+    <ns2:name>CHAMARTIN</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_55">
+    <ns2:name>BULEVAR SUR</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_265">
+    <ns2:name>MANOTERAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_39">
+    <ns2:name>SAN BERNARDO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_144">
+    <ns2:name>VALDEBEBAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_11">
+    <ns2:name>GRAN VIA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_232">
+    <ns2:name>JULIAN BESTEIRO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_29">
+    <ns2:name>MANUEL BECERRA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_19">
+    <ns2:name>DOS CASTILLAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_138">
+    <ns2:name>BARRIO DE LA CONCEPCION</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_260">
+    <ns2:name>LA ELIPA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_132">
+    <ns2:name>LAS MUSAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_83">
+    <ns2:name>TRES CANTOS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/linea#METRO_12">
+    <ns1:hasStations rdf:nodeID="N76ffd525e51e41c3a5ee1902253335b7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/linea#METRO_7">
+    <ns1:hasStations rdf:nodeID="Naddd437f7e354d22a782abcbc3472122"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_204">
+    <ns2:name>JOAQUIN VILUMBRALES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_28">
+    <ns2:name>RETAMARES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_295">
+    <ns2:name>VALDECARROS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_92">
+    <ns2:name>ACACIAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_68">
+    <ns2:name>POLIGONO INDUSTRIAL CIUDAD DE PARLA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_41">
+    <ns2:name>LEGANES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_49">
+    <ns2:name>CALLAO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_269">
+    <ns2:name>SAN FERMIN-ORCASUR</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_66">
+    <ns2:name>ALFONSO XIII</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_274">
+    <ns2:name>TRES OLIVOS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_26">
+    <ns2:name>DOCE DE OCTUBRE</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_18">
+    <ns2:name>CHAMARTIN</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_23">
+    <ns2:name>ESTACION DE ARAVACA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_218">
+    <ns2:name>LORANCA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_184">
+    <ns2:name>RIVAS VACIAMADRID</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_37">
+    <ns2:name>EL GOLOSO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_127">
+    <ns2:name>PRINCIPE PIO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_52">
+    <ns2:name>ARGUELLES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_81">
+    <ns2:name>TORREJON DE ARDOZ</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_34">
+    <ns2:name>SEVILLA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_14">
+    <ns2:name>SOMOSAGUAS SUR</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_68">
+    <ns2:name>ARTURO SORIA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_259">
+    <ns2:name>ARGANZUELA-PLANETARIO</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_142">
+    <ns2:name>AEROPUERTO T4</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/linea#METRO_4">
+    <ns1:hasStations rdf:nodeID="N3840a802dc3b445ba224a41feafbf99d"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_7">
+    <ns2:name>ALUCHE</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_294">
+    <ns2:name>LAS SUERTES</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_5_96">
+    <ns2:name>LAS ZORRERAS</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_57">
+    <ns2:name>ISABEL II</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_4_252">
+    <ns2:name>ALAMEDA DE OSUNA</ns2:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.transporte_madrid.es/parada#par_10_25">
+    <ns2:name>CIUDAD DE LA IMAGEN</ns2:name>
+  </rdf:Description>
+</rdf:RDF>
